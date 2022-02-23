@@ -8,7 +8,6 @@ public class Main {
         
         Hesap hesap = new Hesap("Bega","1234",2000.0);
         atm.work(hesap);
-        System.out.println("Exiting the program....");
-        System.out.println("");
+        System.out.println("Exiting the program...");
     }
 }
